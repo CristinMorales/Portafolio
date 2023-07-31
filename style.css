@@ -110,7 +110,7 @@ h1 {
 
 .experiencia .columna {
   padding: 20px;
-  border: 2px solid #8080804d;
+  border: 2px solid #dd5add7e;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -120,7 +120,7 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #5c5cd5;
 }
 
 .experiencia i {
@@ -141,10 +141,14 @@ h1 {
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0;
+  color: #d55cbd;
+  font-family: 'Courier New', Courier, monospace;
 }
+
 
 .badge {
   margin: 5px;
+  color: #d55cbd;
 }
 
 /* Proyectos */
@@ -361,7 +365,7 @@ footer {
 
 .derechos-de-autor {
   font-size: 15px;
-  color: #aeaeae;
+  color: #f4efeff4;
   padding: 20px;
 }
 
